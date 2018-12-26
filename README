@@ -1,0 +1,11 @@
+# partitions
+
+  Set of tablatures / lyrics used as repetition support.
+  Mostly taken from ultimate-guitar.com
+
+## build
+
+$ bash scripts/build.sh
+
+You will need LateX env properly setup.
+It compiles, so if it don't, it's on your side arf.
